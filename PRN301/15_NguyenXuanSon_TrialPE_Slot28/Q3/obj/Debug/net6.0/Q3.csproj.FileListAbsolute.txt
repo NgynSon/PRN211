@@ -1,0 +1,7 @@
+E:\PRN301\15_NguyenXuanSon_TrialPE_Slot28\Q3\obj\Debug\net6.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\15_NguyenXuanSon_TrialPE_Slot28\Q3\obj\Debug\net6.0\Q3.AssemblyInfoInputs.cache
+E:\PRN301\15_NguyenXuanSon_TrialPE_Slot28\Q3\obj\Debug\net6.0\Q3.AssemblyInfo.cs
+E:\PRN301\15_NguyenXuanSon_TrialPE_Slot28\Q3\obj\Debug\net6.0\Q3.csproj.CoreCompileInputs.cache
+E:\PRN301\15_NguyenXuanSon_TrialPE_Slot28\Q3\obj\Debug\net6.0\Q3.MvcApplicationPartsAssemblyInfo.cache
+E:\PRN301\15_NguyenXuanSon_TrialPE_Slot28\Q3\obj\Debug\net6.0\Q3.RazorAssemblyInfo.cache
+E:\PRN301\15_NguyenXuanSon_TrialPE_Slot28\Q3\obj\Debug\net6.0\Q3.RazorAssemblyInfo.cs

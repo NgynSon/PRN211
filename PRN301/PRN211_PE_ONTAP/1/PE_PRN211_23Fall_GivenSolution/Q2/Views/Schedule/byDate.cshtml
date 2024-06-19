@@ -1,0 +1,91 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Q2.Models
+
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <style>
+                    table {
+                        border-collapse: collapse;
+                        width: 100%;
+                    }
+
+                    th, td {
+                        border: 1px solid #ddd;
+                        padding: 8px;
+                        text-align: center;
+                    }
+
+                    th {
+                        background-color: #f2f2f2;
+                    }
+                </style>
+                <title>Movie Schedule</title>
+            </head>
+            <body>
+
+            <form action="/Schedule/byDate" method="post">
+                <div class="form-group">
+                    <label for="searchDate">Select Date:</label>
+                    <input name="searchDate" type="date" class="form-control" />
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+    <h2>Screening schedule on @ViewBag.SearchDate </h2>
+
+                <table>
+                    <tr>
+                        <th></th> <!-- Ô trống ở góc trên cùng bên trái -->
+                        @foreach (TimeSlot t in ViewBag.TimeSlots)
+                        {
+                            <th><b>@t.StartTime - @t.EndTime</b></th>
+                        }
+                    </tr>
+                    @foreach (Room room in ViewBag.Rooms)
+                    {
+                        <tr>
+                            <th>@room.Title</th>
+                            @foreach (TimeSlot t in ViewBag.TimeSlots)
+                            {
+                                // Đặt biến flag để kiểm tra xem có bộ phim nào chiếu ở phòng và thời gian đó không
+                                bool movieExists = false;
+
+                                // Duyệt qua danh sách các bộ phim để kiểm tra
+                                foreach (Schedule movie in Model)
+                                {
+                                    if (movie.RoomId == room.Id && movie.TimeSlotId == t.Id)
+                                    {
+                                        // Nếu có bộ phim, hiển thị thông tin
+                                        <td>
+                                            <b>@movie.Movie.Title</b>
+                                        </td>
+                                        movieExists = true;
+                                        break;
+                                    }
+                                }
+
+                                // Nếu không có bộ phim, hiển thị ô trống
+                                if (!movieExists)
+                                {
+                                    <td></td>
+                                }
+                            }
+                        </tr>
+                    }
+
+                    <!-- Add more rows for additional rooms -->
+
+                </table>
+            </body>
+        </html>
+
+
+
+
+    <div>
+ 
+</div>
+
+

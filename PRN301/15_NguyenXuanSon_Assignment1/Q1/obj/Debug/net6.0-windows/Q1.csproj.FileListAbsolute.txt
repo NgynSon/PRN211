@@ -1,0 +1,223 @@
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Q1.exe
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Q1.deps.json
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Q1.runtimeconfig.json
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Q1.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Q1.pdb
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfoInputs.cache
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfo.cs
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.CoreCompileInputs.cache
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.dll
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\refint\Q1.dll
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.pdb
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.genruntimeconfig.cache
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\ref\Q1.dll
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.GenerateResource.cache
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SPR24\C# Code\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.AssemblyReference.cache
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.CopyComplete
+D:\SPR24\C# Code\Q1\Q1\obj\Debug\net6.0-windows\Q1.Q1.resources
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.exe
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.deps.json
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.runtimeconfig.json
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.pdb
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.AssemblyReference.cache
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.Q1.resources
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.GenerateResource.cache
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfoInputs.cache
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfo.cs
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.Up2Date
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\refint\Q1.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.pdb
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.genruntimeconfig.cache
+D:\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\ref\Q1.dll
+D:\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\appsettings.json
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.exe
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\appsettings.json
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.deps.json
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.runtimeconfig.json
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Q1.pdb
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Humanizer.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.AssemblyReference.cache
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.Q1.resources
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.GenerateResource.cache
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfoInputs.cache
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfo.cs
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.CoreCompileInputs.cache
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.csproj.Up2Date
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\refint\Q1.dll
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.pdb
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\Q1.genruntimeconfig.cache
+C:\1_PRN211 (1)\Visual Studio Code Project\Q1\Q1\Q1\obj\Debug\net6.0-windows\ref\Q1.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Q1.exe
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\appsettings.json
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Q1.deps.json
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Q1.runtimeconfig.json
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Q1.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Q1.pdb
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Humanizer.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.csproj.AssemblyReference.cache
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.Q1.resources
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.csproj.GenerateResource.cache
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfoInputs.cache
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.AssemblyInfo.cs
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.csproj.CoreCompileInputs.cache
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.csproj.CopyComplete
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\refint\Q1.dll
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.pdb
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\Q1.genruntimeconfig.cache
+E:\PRN301\15_NguyenXuanSon_Assignment1\Q1\obj\Debug\net6.0-windows\ref\Q1.dll

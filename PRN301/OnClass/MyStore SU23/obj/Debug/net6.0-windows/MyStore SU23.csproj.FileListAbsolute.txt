@@ -1,0 +1,58 @@
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\MyStore SU23.exe
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\appsettings.json
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\MyStore SU23.deps.json
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\MyStore SU23.runtimeconfig.json
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\MyStore SU23.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\MyStore SU23.pdb
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.csproj.AssemblyReference.cache
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore_SU23.Form1.resources
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.csproj.GenerateResource.cache
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.AssemblyInfoInputs.cache
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.AssemblyInfo.cs
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.csproj.CoreCompileInputs.cache
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.dll
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\refint\MyStore SU23.dll
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.pdb
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.genruntimeconfig.cache
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\ref\MyStore SU23.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Humanizer.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PRN301\OnClass\MyStore SU23\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PRN301\OnClass\MyStore SU23\obj\Debug\net6.0-windows\MyStore SU23.csproj.CopyComplete

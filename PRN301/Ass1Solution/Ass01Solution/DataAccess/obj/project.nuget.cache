@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnTdXQO4G82eBdesk9aVH2ldDf8EHdKoRROEySACCgna+Esp2F5nVyl6jS9mvLm1jXGjk4o46X6GN+lXOQaV3w==",
+  "success": true,
+  "projectFilePath": "E:\\PRN301\\Ass1Solution\\Ass01Solution\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngxso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ngxso\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ngxso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

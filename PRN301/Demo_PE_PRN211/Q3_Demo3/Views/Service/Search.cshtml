@@ -1,0 +1,105 @@
+﻿@model Q3_Demo3.Models.ManagerEmployee
+
+@{
+    ViewData["Title"] = "Search";
+    Q3_Demo3.Models.PRN211_Spr22Context con = new Q3_Demo3.Models.PRN211_Spr22Context();
+}
+
+<h1>Search</h1>
+
+@using (Html.BeginForm("Search", "Service", FormMethod.Get ))
+{
+   <p>Room </p> <input name="room" type="text" value="@Model.room" />
+    
+   <p>Month </p>
+
+   <input name="month" type="text" value="@Model.month" />
+   <input type="submit" value="Search" />
+
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                RoomTitle
+            </th>
+            <th>
+                Month
+            </th>
+            <th>
+                Year
+            </th>
+            <th>
+                FeeType
+            </th>
+            <th>
+                Amount
+            </th>
+            <th>
+                Employee
+            </th>
+            <th>
+               
+            </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.services) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Month)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FeeType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+                @{
+                    
+                    var list_name = con.Employees.FirstOrDefault(l => l.Id == item.Employee);
+                    var list = con.Employees.ToList();
+                    
+                }
+                @*@foreach(var check in list)
+                {
+                    @if (item.Employee != check.Id)
+                    {
+                        <td>
+                            Đéo có
+                        </td>
+                    }
+                    @if (item.Employee == check.Id)
+                    {
+                        <td>
+                            @check.Name
+                        </td>
+                    }
+                }*@
+                
+                @if (list_name == null)
+                {
+                    <td>
+
+                        Đéo có
+                    </td>
+                }
+                @if (list_name != null)
+                {
+                    <td>
+
+                        @list_name.Name
+                    </td>
+                }
+        </tr>
+}
+    </tbody>
+</table>

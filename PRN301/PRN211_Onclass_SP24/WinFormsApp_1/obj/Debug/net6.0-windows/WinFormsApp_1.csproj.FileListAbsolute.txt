@@ -1,0 +1,6 @@
+E:\PRN301\PRN211_Onclass_SP24\WinFormsApp_1\obj\Debug\net6.0-windows\WinFormsApp_1.frmEmpDetails.resources
+E:\PRN301\PRN211_Onclass_SP24\WinFormsApp_1\obj\Debug\net6.0-windows\WinFormsApp_1.csproj.GenerateResource.cache
+E:\PRN301\PRN211_Onclass_SP24\WinFormsApp_1\obj\Debug\net6.0-windows\WinFormsApp_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\PRN211_Onclass_SP24\WinFormsApp_1\obj\Debug\net6.0-windows\WinFormsApp_1.AssemblyInfoInputs.cache
+E:\PRN301\PRN211_Onclass_SP24\WinFormsApp_1\obj\Debug\net6.0-windows\WinFormsApp_1.AssemblyInfo.cs
+E:\PRN301\PRN211_Onclass_SP24\WinFormsApp_1\obj\Debug\net6.0-windows\WinFormsApp_1.csproj.CoreCompileInputs.cache

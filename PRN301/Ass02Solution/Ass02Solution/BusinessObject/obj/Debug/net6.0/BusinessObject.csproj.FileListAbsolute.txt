@@ -1,0 +1,105 @@
+D:\Dev_DotNet\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+D:\Dev_DotNet\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Dev_DotNet\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\Dev_DotNet\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Dev_DotNet\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\Dev_DotNet\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Ky 7\PRN211\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\ngxso\Downloads\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\appsettings.json
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\PRN301\Ass02Solution\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

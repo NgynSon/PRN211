@@ -1,0 +1,145 @@
+CONFIG
+ var builder = WebApplication.CreateBuilder(args);
+ builder.Services.AddControllersWithViews();
+ var app = builder.Build();
+
+ app.UseRouting();
+
+ app.UseEndpoints(endpoints =>
+ {
+     endpoints.MapControllerRoute(
+         name: "default",
+         pattern: "{controller}/{action}/{id?}");
+ });
+
+ app.Run();
+---------------------Binding datagrid
+dgStudent.Rows[e.RowIndex].Cells[1].FormattedValue.ToString()
+------------------------
+update model từ db
+dotnet ef dbcontext scaffold "Server=localhost;Database=PE_PRN_Fall2023B1;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models -f
+
+//Cau lenh tao ra model
+dotnet ef dbcontext scaffold "Server=localhost;database=PE_PRN211_Spr24B5;user=sa;password=1234;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true"Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+//tao model dung tk, mk
+dotnet ef dbcontext scaffold "Server=localhost;database=PE_Fall21B5;user=sa;password=1234;TrustServerCertificate=true"Microsoft.EntityFrameworkCore.SqlServer --output-dir Model
+
+
+// tao onconfiguring(...context.cs)
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+{
+    var builder = new ConfigurationBuilder()
+        .SetBasePath(Directory.GetCurrentDirectory())
+        .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+    IConfigurationRoot configuration = builder.Build();
+    optionsBuilder.UseSqlServer(configuration.GetConnectionString("DefaultConnectionStringDB"));
+}
+
+
+//Save To File
+if (products.Count > 0)
+{
+    SaveFileDialog saveFileDialog = new SaveFileDialog();
+    saveFileDialog.Filter = "Text Files|*.txt";
+    saveFileDialog.Title = "Save List of Objects";
+
+    if (saveFileDialog.ShowDialog() == DialogResult.OK)
+    {
+        string filePath = saveFileDialog.FileName;
+
+        using (StreamWriter writer = new StreamWriter(filePath))
+        {
+            foreach (var p in products)
+            {
+                writer.WriteLine(p.ToString());
+            }
+        }
+
+        MessageBox.Show("List of objects saved to file: " + filePath);
+    }
+}
+else
+{
+    MessageBox.Show("The datagrid is empty!");
+}
+
+
+//Load File
+
+public void loadFile(string filename)
+  {
+      Data.Clear();
+      try
+      {
+          using (StreamReader sr=new StreamReader(filename))
+          {
+              string line=sr.ReadLine();
+              while (line!=null)
+              {
+                  //Add data đã load vào Data
+                  string[] s = line.Split("\t");
+                  if (s.Length==4 && !checkEmpty(s))
+                  {
+                      Console.WriteLine(line);
+                      string code = s[0];
+                      string name = s[1];
+                      Teacher T;
+                      if (s[3].Equals("0"))
+                      {
+                          double heso = Double.Parse(s[2]) / 2000000;
+                          T = new FullTimeTeacher(code, name, heso);
+                      }
+                      else
+                      {
+                          int slot = Int32.Parse(s[2]) / 50000;
+                          T = new PartTimeTeacher(code, name, slot);
+                      }
+                      Data.Add(T);
+                  }
+                  
+                  line = sr.ReadLine();
+              }
+              
+          }
+      }
+      catch (Exception e)
+      {
+          Console.WriteLine("Load file error:" + e.Message);
+      }
+  }
+
+
+///
+var builder = WebApplication.CreateBuilder(args);
+//Add-Start
+builder.Services.AddControllersWithViews();
+//Add-End
+
+var app = builder.Build();
+
+//Update-Start
+//app.MapGet("/", () => "Hello World!");
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Product}/{action=Index}/{id?}"
+    );
+//Update-End
+
+app.Run();
+
+
+
+
+
+
+reagentc /info
+
+reagentc /enable
+
+dism /Get-WimInfo /WimFile:install.esd
+
+
+dism /export-image /SourceImageFile:install.esd /SourceIndex:1 /DestinationImageFile:install.wim /Compress:max /CheckIntegrity
+
+dism /mount-wim /wimfile:"c:\install.wim" /index:1 /mountdir:c:\mount /readonly 

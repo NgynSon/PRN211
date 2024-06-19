@@ -1,0 +1,17 @@
+E:\PRN301\MulticastDelegate\FormCar\bin\Debug\net6.0-windows\FormCar.exe
+E:\PRN301\MulticastDelegate\FormCar\bin\Debug\net6.0-windows\FormCar.deps.json
+E:\PRN301\MulticastDelegate\FormCar\bin\Debug\net6.0-windows\FormCar.runtimeconfig.json
+E:\PRN301\MulticastDelegate\FormCar\bin\Debug\net6.0-windows\FormCar.dll
+E:\PRN301\MulticastDelegate\FormCar\bin\Debug\net6.0-windows\FormCar.pdb
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.csproj.AssemblyReference.cache
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.Form1.resources
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.csproj.GenerateResource.cache
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.AssemblyInfoInputs.cache
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.AssemblyInfo.cs
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.csproj.CoreCompileInputs.cache
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.dll
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\refint\FormCar.dll
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.pdb
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\FormCar.genruntimeconfig.cache
+E:\PRN301\MulticastDelegate\FormCar\obj\Debug\net6.0-windows\ref\FormCar.dll

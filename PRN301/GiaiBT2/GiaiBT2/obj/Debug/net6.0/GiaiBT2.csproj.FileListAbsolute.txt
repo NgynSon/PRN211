@@ -1,0 +1,14 @@
+E:\PRN301\GiaiBT2\GiaiBT2\bin\Debug\net6.0\GiaiBT2.exe
+E:\PRN301\GiaiBT2\GiaiBT2\bin\Debug\net6.0\GiaiBT2.deps.json
+E:\PRN301\GiaiBT2\GiaiBT2\bin\Debug\net6.0\GiaiBT2.runtimeconfig.json
+E:\PRN301\GiaiBT2\GiaiBT2\bin\Debug\net6.0\GiaiBT2.dll
+E:\PRN301\GiaiBT2\GiaiBT2\bin\Debug\net6.0\GiaiBT2.pdb
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\GiaiBT2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\GiaiBT2.AssemblyInfoInputs.cache
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\GiaiBT2.AssemblyInfo.cs
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\GiaiBT2.csproj.CoreCompileInputs.cache
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\GiaiBT2.dll
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\refint\GiaiBT2.dll
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\GiaiBT2.pdb
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\GiaiBT2.genruntimeconfig.cache
+E:\PRN301\GiaiBT2\GiaiBT2\obj\Debug\net6.0\ref\GiaiBT2.dll

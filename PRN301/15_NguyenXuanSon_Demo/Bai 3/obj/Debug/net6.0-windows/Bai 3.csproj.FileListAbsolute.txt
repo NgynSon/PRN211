@@ -1,0 +1,16 @@
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\bin\Debug\net6.0-windows\Bai 3.exe
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\bin\Debug\net6.0-windows\Bai 3.deps.json
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\bin\Debug\net6.0-windows\Bai 3.runtimeconfig.json
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\bin\Debug\net6.0-windows\Bai 3.dll
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\bin\Debug\net6.0-windows\Bai 3.pdb
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai_3.Form1.resources
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.csproj.GenerateResource.cache
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.AssemblyInfoInputs.cache
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.AssemblyInfo.cs
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.csproj.CoreCompileInputs.cache
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.dll
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\refint\Bai 3.dll
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.pdb
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\Bai 3.genruntimeconfig.cache
+E:\PRN301\15_NguyenXuanSon_Demo\Bai 3\obj\Debug\net6.0-windows\ref\Bai 3.dll

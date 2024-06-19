@@ -1,0 +1,16 @@
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\bin\Debug\net6.0-windows\ConnectDB_Test.exe
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\bin\Debug\net6.0-windows\ConnectDB_Test.deps.json
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\bin\Debug\net6.0-windows\ConnectDB_Test.runtimeconfig.json
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\bin\Debug\net6.0-windows\ConnectDB_Test.dll
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\bin\Debug\net6.0-windows\ConnectDB_Test.pdb
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.Form1.resources
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.csproj.GenerateResource.cache
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.AssemblyInfoInputs.cache
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.AssemblyInfo.cs
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.csproj.CoreCompileInputs.cache
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.dll
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\refint\ConnectDB_Test.dll
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.pdb
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ConnectDB_Test.genruntimeconfig.cache
+E:\PRN301\PRN211_Onclass_SP24\ConnectDB_Test\obj\Debug\net6.0-windows\ref\ConnectDB_Test.dll

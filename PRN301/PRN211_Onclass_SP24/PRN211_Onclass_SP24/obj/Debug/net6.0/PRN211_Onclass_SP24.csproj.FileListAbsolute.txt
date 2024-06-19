@@ -1,0 +1,14 @@
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\PRN211_Onclass_SP24.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\PRN211_Onclass_SP24.AssemblyInfoInputs.cache
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\PRN211_Onclass_SP24.AssemblyInfo.cs
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\PRN211_Onclass_SP24.csproj.CoreCompileInputs.cache
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\bin\Debug\net6.0\PRN211_Onclass_SP24.exe
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\bin\Debug\net6.0\PRN211_Onclass_SP24.deps.json
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\bin\Debug\net6.0\PRN211_Onclass_SP24.runtimeconfig.json
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\bin\Debug\net6.0\PRN211_Onclass_SP24.dll
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\bin\Debug\net6.0\PRN211_Onclass_SP24.pdb
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\PRN211_Onclass_SP24.dll
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\refint\PRN211_Onclass_SP24.dll
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\PRN211_Onclass_SP24.pdb
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\PRN211_Onclass_SP24.genruntimeconfig.cache
+E:\PRN301\PRN211_Onclass_SP24\PRN211_Onclass_SP24\obj\Debug\net6.0\ref\PRN211_Onclass_SP24.dll

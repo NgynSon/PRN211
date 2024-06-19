@@ -1,0 +1,93 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Q2.Models
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+    <title>Movie Schedule</title>
+</head>
+<body>
+
+    <form asp-controller="Schedule" asp-action="schedule" method="post">
+        @if (ViewBag.searchDate != null)
+        {
+            <input type="date" name="searchDate" value="@ViewBag.searchDate" />
+        }
+        else
+        {
+            <input type="date" name="searchDate" />
+        }
+        <br />
+        <br />
+        <input type="submit" value="Get Schedule" />
+    </form>
+    
+
+    <h2>
+        Screening schedule on
+        @if (ViewBag.searchDate != null)
+        {
+            @ViewBag.searchDate
+        }
+    </h2>
+    <table border="1">
+        <tr>
+            <td></td>
+            @foreach (Room item in ViewBag.rooms)
+            {
+                <td>@item.Title</td>
+            }
+        </tr>
+        @if (ViewBag.schedule != null)
+        {
+            @foreach (TimeSlot ts in ViewBag.timeslots)
+            {
+                <tr>
+                    <td>@(ts.StartTime.ToString(@"hh\:mm\:ss") + " - " + ts.EndTime.ToString(@"hh\:mm\:ss"))</td>
+                    @foreach (Room r in ViewBag.rooms)
+                    {
+                        <td>
+                            @foreach (Schedule sc in ViewBag.schedule)
+                            {
+                                if (sc.RoomId == r.Id && sc.TimeSlotId == ts.Id)
+                                {
+                                    @sc.Movie.Title
+                                }
+                            }
+                        </td>
+                    }
+                </tr>
+            }
+        }
+
+        <!-- Add more rows for additional rooms -->
+
+    </table>
+</body>
+</html>
+
+
+
+
+<div>
+</div>
+
+

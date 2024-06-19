@@ -1,0 +1,15 @@
+E:\PRN301\OnClass\Slide5-11\bin\Debug\net6.0\Slide5-11.exe
+E:\PRN301\OnClass\Slide5-11\bin\Debug\net6.0\Slide5-11.deps.json
+E:\PRN301\OnClass\Slide5-11\bin\Debug\net6.0\Slide5-11.runtimeconfig.json
+E:\PRN301\OnClass\Slide5-11\bin\Debug\net6.0\Slide5-11.dll
+E:\PRN301\OnClass\Slide5-11\bin\Debug\net6.0\Slide5-11.pdb
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.csproj.AssemblyReference.cache
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.AssemblyInfoInputs.cache
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.AssemblyInfo.cs
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.csproj.CoreCompileInputs.cache
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.dll
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\refint\Slide5-11.dll
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.pdb
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\Slide5-11.genruntimeconfig.cache
+E:\PRN301\OnClass\Slide5-11\obj\Debug\net6.0\ref\Slide5-11.dll

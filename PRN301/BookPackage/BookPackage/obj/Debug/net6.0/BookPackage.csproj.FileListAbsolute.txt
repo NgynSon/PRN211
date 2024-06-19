@@ -1,0 +1,15 @@
+E:\PRN301\BookPackage\BookPackage\bin\Debug\net6.0\BookPackage.exe
+E:\PRN301\BookPackage\BookPackage\bin\Debug\net6.0\BookPackage.deps.json
+E:\PRN301\BookPackage\BookPackage\bin\Debug\net6.0\BookPackage.runtimeconfig.json
+E:\PRN301\BookPackage\BookPackage\bin\Debug\net6.0\BookPackage.dll
+E:\PRN301\BookPackage\BookPackage\bin\Debug\net6.0\BookPackage.pdb
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.csproj.AssemblyReference.cache
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.AssemblyInfoInputs.cache
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.AssemblyInfo.cs
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.csproj.CoreCompileInputs.cache
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.dll
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\refint\BookPackage.dll
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.pdb
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\BookPackage.genruntimeconfig.cache
+E:\PRN301\BookPackage\BookPackage\obj\Debug\net6.0\ref\BookPackage.dll

@@ -1,0 +1,4 @@
+E:\PRN211\PRN211_SP24_Onclass\PRN211_SP24_Onclass\obj\Debug\net6.0\PRN211_SP24_Onclass.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211\PRN211_SP24_Onclass\PRN211_SP24_Onclass\obj\Debug\net6.0\PRN211_SP24_Onclass.AssemblyInfoInputs.cache
+E:\PRN211\PRN211_SP24_Onclass\PRN211_SP24_Onclass\obj\Debug\net6.0\PRN211_SP24_Onclass.AssemblyInfo.cs
+E:\PRN211\PRN211_SP24_Onclass\PRN211_SP24_Onclass\obj\Debug\net6.0\PRN211_SP24_Onclass.csproj.CoreCompileInputs.cache

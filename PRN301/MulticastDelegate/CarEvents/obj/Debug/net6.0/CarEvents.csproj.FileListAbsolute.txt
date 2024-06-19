@@ -1,0 +1,5 @@
+E:\PRN301\MulticastDelegate\CarEvents\obj\Debug\net6.0\CarEvents.csproj.AssemblyReference.cache
+E:\PRN301\MulticastDelegate\CarEvents\obj\Debug\net6.0\CarEvents.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\MulticastDelegate\CarEvents\obj\Debug\net6.0\CarEvents.AssemblyInfoInputs.cache
+E:\PRN301\MulticastDelegate\CarEvents\obj\Debug\net6.0\CarEvents.AssemblyInfo.cs
+E:\PRN301\MulticastDelegate\CarEvents\obj\Debug\net6.0\CarEvents.csproj.CoreCompileInputs.cache

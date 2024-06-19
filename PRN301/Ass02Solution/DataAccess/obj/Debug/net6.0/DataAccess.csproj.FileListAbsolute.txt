@@ -1,0 +1,96 @@
+D:\Dev_DotNet\Ass02Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\Dev_DotNet\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Dev_DotNet\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Dev_DotNet\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Dev_DotNet\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\Dev_DotNet\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Dev_DotNet\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Ass2\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\dinhd\OneDrive - Đại học FPT- FPT University\Documents\ky5_chuyen_nganh\PRN211\Assss2\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\admin\Documents\Zalo Received Files\Ass02Solution_DInh_Van_Do\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Ky 7\PRN211\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\PRN301\Ass02Solution\DataAccess\bin\Debug\net6.0\appsettings.json
+E:\PRN301\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\PRN301\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\PRN301\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\PRN301\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+E:\PRN301\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\PRN301\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

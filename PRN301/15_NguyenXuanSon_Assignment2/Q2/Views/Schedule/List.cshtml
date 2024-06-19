@@ -1,0 +1,79 @@
+﻿@using Q2.Models;
+
+<form action="/Schedule/List" method="get">
+    <input type="date" name="date" /> <input type="submit" />
+</form>
+<br />
+<h3>
+    Screening schedule on @ViewBag.Date
+</h3>
+@* <table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Room</th>
+        <th>TimeSlot</th>
+        <th>Movie</th>
+        <th>Note</th>
+    </tr>
+    @foreach (Schedule item in ViewBag.Schedules)
+    {
+        <td>@item.Id</td>
+        <td>@item.Room.Title</td>
+        <td>@item.TimeSlot.TimeString</td>
+        <td>@item.Movie.Title</td>
+        <td>@item.Note</td>
+    }
+</table> *@
+<table class="table table-bordered" style="border:solid">
+    <thead>
+        <tr>
+            <th></th>
+            @foreach (var room in ViewBag.Rooms)
+            {
+                <th>@room.Title</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var timeSlot in ViewBag.TimeSlots)
+        {
+            <tr>
+                <td>
+                    @timeSlot.StartTime - @timeSlot.EndTime
+                </td>
+                @foreach (var room in ViewBag.Rooms)
+                {
+                    <td>
+                        @{
+                            Schedule item2 = null;
+                            foreach (var schedule in ViewBag.Schedules)
+                            {
+                                foreach (var s in schedule)
+                                {
+                                    if (s != null && s.TimeSlotId == timeSlot.Id && s.RoomId == room.Id)
+                                    {
+                                        item2 = s;
+                                        break;
+                                    }
+                                }
+                                if (item2 != null)
+                                {
+                                    break;
+                                }
+                            }
+                        }
+                        @if (item2 != null)
+                        {
+                            <a href="#">@item2.Movie.Title</a>
+                        }
+                        else
+                        {
+                            
+                        }
+                    </td>
+                }
+            </tr>
+        }
+
+    </tbody>
+</table>

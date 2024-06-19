@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B171FB-8A68-43CD-9AF3-DCE056EFE11E}|Q1\\Q1.csproj|e:\\prn301\\15_nguyenxuanson_assignment3\\q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B171FB-8A68-43CD-9AF3-DCE056EFE11E}|Q1\\Q1.csproj|solutionrelative:q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B171FB-8A68-43CD-9AF3-DCE056EFE11E}|Q1\\Q1.csproj|E:\\PRN301\\15_NguyenXuanSon_Assignment3\\q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0B171FB-8A68-43CD-9AF3-DCE056EFE11E}|Q1\\Q1.csproj|solutionrelative:q1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B171FB-8A68-43CD-9AF3-DCE056EFE11E}|Q1\\Q1.csproj|E:\\PRN301\\15_NguyenXuanSon_Assignment3\\q1\\data\\spring24b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B171FB-8A68-43CD-9AF3-DCE056EFE11E}|Q1\\Q1.csproj|solutionrelative:q1\\data\\spring24b1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|E:\\PRN301\\15_NguyenXuanSon_Assignment3\\q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|solutionrelative:q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|E:\\PRN301\\15_NguyenXuanSon_Assignment3\\q2\\frmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|solutionrelative:q2\\frmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|E:\\PRN301\\15_NguyenXuanSon_Assignment3\\q2\\frmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|solutionrelative:q2\\frmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|E:\\PRN301\\15_NguyenXuanSon_Assignment3\\q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|solutionrelative:q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|E:\\PRN301\\15_NguyenXuanSon_Assignment3\\q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65ECB29-F82F-4AF6-8CDB-DFAEB96A5B4D}|Q2\\Q2.csproj|solutionrelative:q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDetails.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\frmDetails.cs",
+              "RelativeDocumentMoniker": "Q2\\frmDetails.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\frmDetails.cs",
+              "RelativeToolTip": "Q2\\frmDetails.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-27T04:41:08.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q1\\Form1.cs",
+              "RelativeDocumentMoniker": "Q1\\Form1.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q1\\Form1.cs",
+              "RelativeToolTip": "Q1\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T04:41:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spring24B1Context.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q1\\Data\\Spring24B1Context.cs",
+              "RelativeDocumentMoniker": "Q1\\Data\\Spring24B1Context.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q1\\Data\\Spring24B1Context.cs",
+              "RelativeToolTip": "Q1\\Data\\Spring24B1Context.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T04:41:09.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q1\\Form1.cs",
+              "RelativeDocumentMoniker": "Q1\\Form1.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q1\\Form1.cs",
+              "RelativeToolTip": "Q1\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-27T04:41:09.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDetails.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\frmDetails.cs",
+              "RelativeDocumentMoniker": "Q2\\frmDetails.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\frmDetails.cs",
+              "RelativeToolTip": "Q2\\frmDetails.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-27T04:41:09.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\Form1.cs",
+              "RelativeToolTip": "Q2\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-27T04:41:09.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.Designer.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\Form1.Designer.cs",
+              "RelativeToolTip": "Q2\\Form1.Designer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAjwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T04:41:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.cs",
+              "ToolTip": "E:\\PRN301\\15_NguyenXuanSon_Assignment3\\Q2\\Form1.cs",
+              "RelativeToolTip": "Q2\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-27T04:41:09.03Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 720,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

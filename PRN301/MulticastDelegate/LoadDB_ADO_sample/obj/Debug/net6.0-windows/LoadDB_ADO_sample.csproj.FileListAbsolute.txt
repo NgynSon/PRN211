@@ -1,0 +1,7 @@
+E:\PRN301\MulticastDelegate\LoadDB_ADO_sample\obj\Debug\net6.0-windows\LoadDB_ADO_sample.csproj.AssemblyReference.cache
+E:\PRN301\MulticastDelegate\LoadDB_ADO_sample\obj\Debug\net6.0-windows\LoadDB_ADO_sample.Form1.resources
+E:\PRN301\MulticastDelegate\LoadDB_ADO_sample\obj\Debug\net6.0-windows\LoadDB_ADO_sample.csproj.GenerateResource.cache
+E:\PRN301\MulticastDelegate\LoadDB_ADO_sample\obj\Debug\net6.0-windows\LoadDB_ADO_sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN301\MulticastDelegate\LoadDB_ADO_sample\obj\Debug\net6.0-windows\LoadDB_ADO_sample.AssemblyInfoInputs.cache
+E:\PRN301\MulticastDelegate\LoadDB_ADO_sample\obj\Debug\net6.0-windows\LoadDB_ADO_sample.AssemblyInfo.cs
+E:\PRN301\MulticastDelegate\LoadDB_ADO_sample\obj\Debug\net6.0-windows\LoadDB_ADO_sample.csproj.CoreCompileInputs.cache
